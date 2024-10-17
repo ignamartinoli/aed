@@ -2,8 +2,8 @@ import os.path
 import pickle
 import random
 
-from T2.Vehiculo import Vehiculo
-from T2.utils import *
+from Vehiculo import Vehiculo
+from utils import *
 
 
 def mostrar_archivo(fd):
