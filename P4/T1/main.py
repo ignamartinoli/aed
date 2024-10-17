@@ -67,6 +67,7 @@ def cargar_consumos(consumos):
 
 
 def menu():
+    print('\n[ MENU ]')
     print('1. Cargar consumos ordenados')
     print('2. Mostrar consumos')
     print('3. Mostrar montos por hora y tipo')

@@ -16,6 +16,7 @@ def agregar_en_orden(v, consumo):
 
     if izq > der:
         pos = izq
+
     v[pos:pos] = [consumo]
 
 
